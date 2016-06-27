@@ -1,5 +1,5 @@
 geometry = {
-    #96: (0,150), #the analog channel
+    #96: (0,150), #the analog ttl channel
     95: (30,110), #1-9
     94: (40,80),  #1-1
     93: (10,120), #1-20
